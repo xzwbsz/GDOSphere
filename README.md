@@ -1,5 +1,6 @@
 # GDOSphere
 Accurate Physics-informed Data-driven Weather Prediction Model
+![image](https://github.com/user-attachments/assets/80cf2617-3cd5-4ced-a902-a5662f11384f)
 
 Accurate weather forecasting is essential for a variety of sectors, including agriculture, transportation, and emergency management. 
 The existing approaches often incur high training costs, suffer from non-convergence and persistent errors, making it challenging to achieve both high fidelity and low computational costs.
