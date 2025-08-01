@@ -27,3 +27,20 @@ After generating multi-scale icosahedral mesh, you can operate `bash run.sh` to 
 
 The `run.sh` contains several training configuration including prediction leading time, batch size and decay, etc.
 You may adjust the number for your convenient.
+
+##Cite
+If you use GDOSphere in a scientific publication, we would appreciate citations to the following paper:
+
+```
+@article{XU2025130772,
+title = {GDOSphere: A spherical graph neural network framework with neural operators for weather forecasting},
+journal = {Physica A: Statistical Mechanics and its Applications},
+volume = {674},
+pages = {130772},
+year = {2025},
+issn = {0378-4371},
+doi = {https://doi.org/10.1016/j.physa.2025.130772},
+url = {https://www.sciencedirect.com/science/article/pii/S0378437125004248},
+author = {Zhewen Xu and Baoxiang Pan and Xiaohui Wei and Hongliang Li and Dongyuan Tian and Zijian Li}
+}
+```
