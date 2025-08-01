@@ -28,7 +28,7 @@ After generating multi-scale icosahedral mesh, you can operate `bash run.sh` to 
 The `run.sh` contains several training configuration including prediction leading time, batch size and decay, etc.
 You may adjust the number for your convenient.
 
-##Cite
+## Cite
 If you use GDOSphere in a scientific publication, we would appreciate citations to the following paper:
 
 ```
